@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\bin\Debug\netcoreapp3.0\ForAndfor-eachloop.exe
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\bin\Debug\netcoreapp3.0\ForAndfor-eachloop.deps.json
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\bin\Debug\netcoreapp3.0\ForAndfor-eachloop.runtimeconfig.json
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\bin\Debug\netcoreapp3.0\ForAndfor-eachloop.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\bin\Debug\netcoreapp3.0\ForAndfor-eachloop.dll
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\bin\Debug\netcoreapp3.0\ForAndfor-eachloop.pdb
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\obj\Debug\netcoreapp3.0\ForAndfor-eachloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\obj\Debug\netcoreapp3.0\ForAndfor-eachloop.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\obj\Debug\netcoreapp3.0\ForAndfor-eachloop.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\obj\Debug\netcoreapp3.0\ForAndfor-eachloop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\obj\Debug\netcoreapp3.0\ForAndfor-eachloop.dll
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\obj\Debug\netcoreapp3.0\ForAndfor-eachloop.pdb
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\ForAndfor-eachloop\obj\Debug\netcoreapp3.0\ForAndfor-eachloop.genruntimeconfig.cache

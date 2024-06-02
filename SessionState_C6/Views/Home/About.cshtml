@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "About Page";
+}
+
+<div>
+    <h1>About</h1>
+    <p>User Name: @ViewBag.UserName</p>
+    <p>User Age: @ViewBag.UserAge</p>
+    <a href="/Home/ClearSession">Clear Session</a>
+</div>
+
+<script>
+    console.log("User Name: @ViewBag.UserName");
+    console.log("User Age: @ViewBag.UserAge");
+</script>

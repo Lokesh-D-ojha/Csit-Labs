@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Return_Type_C4.props" />
+</Project>

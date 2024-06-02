@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SessionState_C6.props" />
+</Project>

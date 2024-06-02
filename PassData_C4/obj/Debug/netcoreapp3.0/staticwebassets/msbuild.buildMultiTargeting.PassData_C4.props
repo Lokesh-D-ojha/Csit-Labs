@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PassData_C4.props" />
+</Project>

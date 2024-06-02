@@ -1,0 +1,42 @@
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.RazorAssemblyInfo.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.exe
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.deps.json
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.runtimeconfig.json
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.dll
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.pdb
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.Views.dll
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\bin\Debug\netcoreapp3.0\client-side validation_c7.Views.pdb
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.TagHelpers.input.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.TagHelpers.output.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.RazorCoreGenerate.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\Student\AddStudent.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.RazorTargetAssemblyInfo.cs
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.Views.pdb
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\staticwebassets\client-side validation_c7.StaticWebAssets.Manifest.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\staticwebassets\client-side validation_c7.StaticWebAssets.Pack.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.client-side validation_c7.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.client-side validation_c7.props
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.client-side validation_c7.props
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.client-side validation_c7.props
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.dll
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.pdb
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\client-side validation_c7.csproj.CopyComplete
+C:\Users\ACER\Desktop\Sixth Sem (Lokesh)\dotnet\Lab_Works(Lokesh)\client-side validation_c7\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddStudent.cshtml.g.cs

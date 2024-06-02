@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\bin\Debug\netcoreapp3.0\IfElseIfstatement.exe
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\bin\Debug\netcoreapp3.0\IfElseIfstatement.deps.json
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\bin\Debug\netcoreapp3.0\IfElseIfstatement.runtimeconfig.json
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\bin\Debug\netcoreapp3.0\IfElseIfstatement.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\bin\Debug\netcoreapp3.0\IfElseIfstatement.dll
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\bin\Debug\netcoreapp3.0\IfElseIfstatement.pdb
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\obj\Debug\netcoreapp3.0\IfElseIfstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\obj\Debug\netcoreapp3.0\IfElseIfstatement.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\obj\Debug\netcoreapp3.0\IfElseIfstatement.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\obj\Debug\netcoreapp3.0\IfElseIfstatement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\obj\Debug\netcoreapp3.0\IfElseIfstatement.dll
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\obj\Debug\netcoreapp3.0\IfElseIfstatement.pdb
+C:\Users\ACER\Desktop\Sixth Sem\dotnet\Lab_Works(L)\IfElseIfstatement\obj\Debug\netcoreapp3.0\IfElseIfstatement.genruntimeconfig.cache

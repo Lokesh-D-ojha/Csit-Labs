@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\client-side validation_c7.props" />
+</Project>

@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Add Student";
+}
+
+<form id="studentForm">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" class="form-control" id="name" name="name" required>
+        <span class="text-danger" id="nameError"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+        <span class="text-danger" id="emailError"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="studentId">Student ID:</label>
+        <input type="text" class="form-control" id="studentId" name="studentId" required>
+        <span class="text-danger" id="studentIdError"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#studentForm').submit(function (event) {
+                event.preventDefault();
+
+                var name = $('#name').val();
+                var email = $('#email').val();
+                var studentId = $('#studentId').val();
+
+                // Validate Name
+                if (name.trim() === '') {
+                    $('#nameError').text('Please enter your name.');
+                    return;
+                }
+
+                // Validate Email
+                if (email.trim() === '') {
+                    $('#emailError').text('Please enter your email.');
+                    return;
+                }
+
+                // Validate Student ID
+                if (studentId.trim() === '') {
+                    $('#studentIdError').text('Please enter your student ID.');
+                    return;
+                }
+
+                // If all validations pass, submit the form
+                $('#studentForm').unbind('submit').submit();
+            });
+        });
+    </script>
+}

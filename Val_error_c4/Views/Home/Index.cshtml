@@ -1,0 +1,25 @@
+﻿@model Val_error_c4.Models.User
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h1>Index</h1>
+    <form method="post">
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Name " class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Email"></label>
+            <input asp-for="Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+    <h1>Lokesh Datta Ojha</h1>
+</body>
+</html>
